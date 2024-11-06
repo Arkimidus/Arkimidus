@@ -5,7 +5,8 @@
 I’m a passionate programmer focused on game design, backend development, and creating high-performance software. Currently exploring game design and MAUI for app development. Check out some of my projects below!
 
 ### 🛠 Tech Stack
-![C#](https://img.shields.io/badge/-C%23-blue) ![.NET](https://img.shields.io/badge/-.NET-informational) ![SQLite](https://img.shields.io/badge/-SQLite-lightgrey) ![MAUI](https://img.shields.io/badge/-MAUI-blue)![Python](https://img.shields.io/badge/-SQLite-lightgrey)![ GDScript](https://img.shields.io/badge/-C%23-blue)
+![C#](https://img.shields.io/badge/-C%23-blue) ![.NET](https://img.shields.io/badge/-.NET-informational) ![SQLite](https://img.shields.io/badge/-SQLite-lightgrey) ![MAUI](https://img.shields.io/badge/-MAUI-blue)![Python](https://img.shields.io/badge/-Python-yellow)![GDScript](https://img.shields.io/badge/-GDScript-darkblue)
+
 
 ### 🔥 Featured Projects
 - [RoyalCrownWebsite](https://github.com/Ham-454/Comp602-RoyalCrownWebsite) - Boardgame Website
