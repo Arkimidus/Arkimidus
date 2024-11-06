@@ -8,9 +8,9 @@ I’m a passionate programmer focused on game design, backend development, and c
 ![C#](https://img.shields.io/badge/-C%23-blue) ![.NET](https://img.shields.io/badge/-.NET-informational) ![SQLite](https://img.shields.io/badge/-SQLite-lightgrey) ![MAUI](https://img.shields.io/badge/-MAUI-blue)
 
 ### 🔥 Featured Projects
-- [RoyalCrownWebsite]([https://github.com/yourusername/Comp605Assessment3](https://github.com/Ham-454/Comp602-RoyalCrownWebsite)) - Boardgame Website Design
-- [Task4]([https://github.com/yourusername/Task4Part2](https://github.com/Arkimidus/Task4)) - Farm Animal Manager app
-- [TowFan]([https://github.com/yourusername/OtherProject](https://github.com/AntarcticMatt/TowFan)) - Tower Defense game
+- [RoyalCrownWebsite](https://github.com/Ham-454/Comp602-RoyalCrownWebsite) - Boardgame Website Design
+- [Task4](https://github.com/Arkimidus/Task4) - Farm Animal Manager app
+- [TowFan](https://github.com/AntarcticMatt/TowFan) - Tower Defense game
 
 ### 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)) [![GitHub](https://img.shields.io/badge/-GitHub-grey)](https://github.com/Arkimidus)
