@@ -14,4 +14,4 @@ I’m a passionate programmer focused on game design, backend development, and c
 - [TowFan](https://github.com/AntarcticMatt/TowFan) - Tower Defense game
 
 ### 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin) [![GitHub](https://img.shields.io/badge/-GitHub-grey)](https://github.com/Arkimidus)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)][(https://www.linkedin.com/in/ethan-peebles-244b97321/)) [![GitHub](https://img.shields.io/badge/-GitHub-grey)](https://github.com/Arkimidus)]
