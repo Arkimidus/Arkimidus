@@ -8,7 +8,7 @@ I’m a passionate programmer focused on game design, backend development, and c
 ![C#](https://img.shields.io/badge/-C%23-blue) ![.NET](https://img.shields.io/badge/-.NET-informational) ![SQLite](https://img.shields.io/badge/-SQLite-lightgrey) ![MAUI](https://img.shields.io/badge/-MAUI-blue)
 
 ### 🔥 Featured Projects
-- [RoyalCrownWebsite](https://github.com/Ham-454/Comp602-RoyalCrownWebsite) - Boardgame Website Design
+- [RoyalCrownWebsite](https://github.com/Ham-454/Comp602-RoyalCrownWebsite) - Boardgame Website
 - [Task4](https://github.com/Arkimidus/Task4) - Farm Animal Manager app
 - [TowFan](https://github.com/AntarcticMatt/TowFan) - Tower Defense game
 
