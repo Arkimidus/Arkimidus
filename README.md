@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I’m Ethan 👋
 
-<!--
-**Arkimidus/Arkimidus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm currently a Wintec student, studying Software Enginerring
 
-Here are some ideas to get you started:
+I’m a passionate programmer focused on game design, backend development, and creating high-performance software. Currently exploring game design and MAUI for app development. Check out some of my projects below!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+![C#](https://img.shields.io/badge/-C%23-blue) ![.NET](https://img.shields.io/badge/-.NET-informational) ![SQLite](https://img.shields.io/badge/-SQLite-lightgrey) ![MAUI](https://img.shields.io/badge/-MAUI-blue)
+
+### 🔥 Featured Projects
+- [RoyalCrownWebsite]([https://github.com/yourusername/Comp605Assessment3](https://github.com/Ham-454/Comp602-RoyalCrownWebsite)) - AVL Tree implementation
+- [Task4](https://github.com/yourusername/Task4Part2) - Farm animal manager app built with MAUI and SQLite
+- [TowFan](https://github.com/yourusername/OtherProject) - Brief description here
+
+### 📫 Contact Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/yourprofile) [![GitHub](https://img.shields.io/badge/-GitHub-grey)](https://github.com/yourusername)
