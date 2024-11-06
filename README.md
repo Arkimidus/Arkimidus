@@ -1,6 +1,6 @@
 # Hi there, I’m Ethan 👋
 
-### I'm currently a Wintec student, studying Software Enginerring
+### I'm currently a Wintec student, studying Software Engineering
 
 I’m a passionate programmer focused on game design, backend development, and creating high-performance software. Currently exploring game design and MAUI for app development. Check out some of my projects below!
 
